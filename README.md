@@ -1,20 +1,5 @@
-# docsify-demo-box-react
+> **Archived**
+>
+> This fork is no longer tracked or maintained.
 
-> write React jsx demo in [docsify](https://docsify.js.org/#/) with instant preview and `jsfiddle` integration
-
-
-Your sample code can be rendered on the page instantly, so the people who read your document can see the preview immediately.
-If he/she expands the demo box, the source code and description are shown there.
-Click the button `Try in Jsfiddle`, `jsfiddle.net` will be open with the code of this sample.
-
-[Doc](https://njleonzhang.github.io/docsify-demo-box-react/)
-
-This plugin is for React. For Vue, please use [docsify-demo-box-vue](https://njleonzhang.github.io/docsify-demo-box-vue)
-
-## Showcase
-
-These projects are using `docsify-demo-box-react`. Pull requests welcome :blush:
-
-| Project | Description |
-|---|---|
-| [soui-react](https://github.com/sodalife/soui-react/) | Soda UI Components for React |
+# docsify-demo-box-react  > write React jsx demo in [docsify](https://docsify.js.org/#/) with instant preview and `jsfiddle` integration   Your sample code can be rendered on the page instantly, so the people who read your document can see the preview immediately. If he/she expands the demo box, the source code and description are shown there. Click the button `Try in Jsfiddle`, `jsfiddle.net` will be open with the code of this sample.  [Doc](https://njleonzhang.github.io/docsify-demo-box-react/)  This plugin is for React. For Vue, please use [docsify-demo-box-vue](https://njleonzhang.github.io/docsify-demo-box-vue)  ## Showcase  These projects are using `docsify-demo-box-react`. Pull requests welcome :blush:  | Project | Description | |---|---| | [soui-react](https://github.com/sodalife/soui-react/) | Soda UI Components for React |
